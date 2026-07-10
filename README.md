@@ -1,2 +1,2 @@
 # iQA
-iQ Analytical
+IQ Analytical
